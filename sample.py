@@ -1,7 +1,7 @@
 import random
 
 
-def main(count: int = 500, low: int = 1, high: int = 100) -> None:
+def main(count: int = 75, low: int = 1, high: int = 100) -> None:
 	"""Generate `count` random integers in [low, high] and print whether
 	each is divisible by three.
 	"""
